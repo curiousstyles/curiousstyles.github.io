@@ -345,7 +345,7 @@ text-decoration: none !important;
 #userinfo_username {
 	position: absolute;
 	margin: 67px 0 0 16px; /* was 94 */
-	background-color: #000;
+	background-color: #434343;
 	
 }
 #userinfo_stats {
